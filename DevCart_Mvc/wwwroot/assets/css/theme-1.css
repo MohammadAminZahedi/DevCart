@@ -7003,7 +7003,7 @@ button.bg-dark:focus {
 }
 
 .rounded-top {
-    border-top-left-radius: .25rem !important;
+    border-top-left-radius: .55rem !important;
     border-top-right-radius: .25rem !important
 }
 
