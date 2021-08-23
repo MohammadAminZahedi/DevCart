@@ -114,3 +114,4 @@ E:\Programming\C-sharp\learn\DevCart\DevCart_Mvc\bin\Debug\net5.0\zh-Hant\Micros
 E:\Programming\C-sharp\learn\DevCart\DevCart_Mvc\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\Programming\C-sharp\learn\DevCart\DevCart_Mvc\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 E:\Programming\C-sharp\learn\DevCart\DevCart_Mvc\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+E:\Programming\C-sharp\learn\DevCart\DevCart_Mvc\obj\Debug\net5.0\Razor\Views\Home\Projects.cshtml.g.cs
